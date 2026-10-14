@@ -1,0 +1,14 @@
+.heading1 {
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    background-color: #938882;
+    display: table;
+    margin: 0 auto;
+    padding: 10px;
+
+}
+
+* {
+    background-color: #6a4a3a;
+}
